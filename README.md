@@ -1,4 +1,5 @@
 # Trainer (part-1)
+[PDF](FYP%20Report.docx)  [Supplementary](FYP%20Defense.pptx)
 Alexnet and resultant trained NN (for fatigue classification): https://drive.google.com/drive/folders/1LzoUYYbZEy_cNxrh9XJJpJRv38jcvhx_?usp=sharing
 
 This was part of my Bachelor's FYP, and its corresponding FYP report and defense of my idea is provided too.
